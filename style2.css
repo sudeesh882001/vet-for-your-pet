@@ -1,0 +1,34 @@
+.heading{
+    font-family:"brush script MT",cursive;
+    text-align: center;
+    position: relative;
+    top:30px;
+    order: 2;
+    color:darksalmon;
+}
+*{
+    margin-top: 10px;
+    font-family:"brush script MT",cursive;
+    text-align: center;
+    font-size: 100px;
+}
+
+.para1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+}
+.parahead{
+    font-family: "brush script MT",cursive;
+    font-size: 30px;
+}
+.icon{
+    align-items: center;
+}
+.square{
+    
+    float :center;
+    top: 50px;
+    position: relative;
+    
+
+}

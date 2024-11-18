@@ -1,0 +1,19 @@
+.heading{
+    font-family:"brush script MT",cursive;
+    text-align: center;
+    position: relative;
+    top:30px;
+    order: 2;
+    font-size: 100px;
+    color:darksalmon;
+}
+.para1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+}
+*{
+    margin-top: 10px;
+    font-family:"brush script MT",cursive;
+    text-align: center;
+    font-size: 40px;
+}
